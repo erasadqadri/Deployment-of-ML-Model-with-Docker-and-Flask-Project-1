@@ -15,6 +15,8 @@
 
 ## Get the Dataset:
 
+Dataset Link: https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data
+
 Data were extracted from images that were taken from genuine and forged banknote like specimens. For digitization, an industrial camera was used for print inspection. The final images have 400x400 pixels. Due to the object lens and distance to the investigated object gray-scale pictures with a resolution of about 600 dpi were gained. Wavelet Transform tool were used to extract features from images. Dataset was retrieved from UCI Repositories.
 
 Extracted Features = Variance, Skewness, Curtosis, Entropy and Class
