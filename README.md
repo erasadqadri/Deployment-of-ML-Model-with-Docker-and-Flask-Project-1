@@ -29,7 +29,7 @@ class 1 => Authentic
 
 ## Import the Dataset:
 
-The name of the dataset I have used for this project is 'BankNoteAuthentication.csv'.
+The name of the dataset, I have used for this project is 'BankNoteAuthentication.csv'.
 
 Dataset contains five columns -> Variance, Skewness, Curtosis, Entropy and Class. The shape of our dataset is (1373, 5).
 
